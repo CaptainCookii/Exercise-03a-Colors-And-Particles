@@ -1,3 +1,5 @@
+Evan Lucas - CaptainCookii
+
 # Exercise03a-Colors-And-Particles
 
 Exercise for MSCH-C220
